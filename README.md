@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Davi Wesley, from Brazil!<br><br>- 📚 I'm currently learning JavaScript.<br>- ⚡ In my free time I like to play.<br> - My portfolio : https://offdavicode.github.io </p>
+<p align="left">I'm Davi Wesley, from Brazil!<br><br>- 📚 I'm currently learning JavaScript and Java.<br>- ⚡ In my free time I like to play.<br> - My portfolio : https://offdavicode.github.io </p>
 
 ###
 
