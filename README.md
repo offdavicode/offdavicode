@@ -1,16 +1,3 @@
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://br.linkedin.com/in/daviwesley.m" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=offdavicode.offdavicode&"/>
-</div>
-
-###
-
 <h1 align="center">Hello there 👋</h1>
 
 ###
@@ -19,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Davi Wesley, from Brazil!<br><br>- 📚 I'm currently learning JavaScript and Java.<br>- ⚡ In my free time I like to play.<br> - My portfolio : https://offdavicode.github.io </p>
+<p align="left">I'm Davi Wesley, from Brazil!<br><br> - 📚 Studying Computer Science <br> - ✏ I'm currently learning JavaScript, Python<br>- ⚡ In my free time I like to play.<br> - 💻 My portfolio : https://offdavicode.github.io </p>
 
 ###
 
@@ -33,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
@@ -43,3 +32,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://br.linkedin.com/in/daviwesley.m" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=offdavicode.offdavicode&"/>
+</div>
